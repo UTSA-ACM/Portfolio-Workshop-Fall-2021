@@ -1,4 +1,14 @@
 # Getting Started with Web Development
+
+## This Guide
+[The importance of a public portfolio](https://clarke.edu/academics/careers-internships/student-checklist/resume-writing-and-portfolios/what-is-a-portfolio/)
+
+I am copying a [template from W3Schools](https://www.w3schools.com/w3css/w3css_templates.asp)
+
+Editing with [Webstorm](https://www.jetbrains.com/webstorm/)
+
+Deploying to [GitHub](https://github.com/) and activating [GitHub Pages](https://pages.github.com/)
+
 ## What is HTML?
 HTML stands for Hypertext Markup Language. We use HTML to write the structure of the website.
 Making a website is kind of like ... making a cake! 🎂  HTML is basically a recipe and the `elements` are like the ingredients.
