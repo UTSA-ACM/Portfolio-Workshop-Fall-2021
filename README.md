@@ -30,6 +30,9 @@ Feel free check out [CodePen](https://codepen.io/pen/) to practice writing and c
 
 # More Tutorials and Resources
 
+## W3Schools
+[Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
+
 ## HTML
 * [HTML Youtube Playlist](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
 * [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
